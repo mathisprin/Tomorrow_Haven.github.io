@@ -3435,30 +3435,6 @@ input, select, textarea {
 					display: none;
 				}
 
-/* fa-solid*/
-	ul.fa-solid {
-		cursor: default;
-		list-style: none;
-		padding-left: 0;
-	}
-
-		ul.fa-solid li {
-			display: inline-block;
-			padding: 0 0.75em 0 0;
-		}
-
-			ul.fa-solid li:last-child {
-				padding-right: 0;
-			}
-
-			ul.fa-solid li > a, ul.fa-solid li > span {
-				border: 0;
-			}
-
-				ul.fa-solid li > a .label, ul.fa-solid li > span .label {
-					display: none;
-				}
-
 /* Menu */
 
 	ul.menu {
