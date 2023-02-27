@@ -28,7 +28,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-
+select option {
+	background-color: #374d36;
+}
 
 ol, ul {
 	list-style: none;
