@@ -2593,6 +2593,10 @@ input, select, textarea {
 		font-weight: 900;
 	}
 
+	.fa-solid.brands:before {
+		font-family: 'Font Awesome 5 Brands';
+	}
+
 	.fa-solid {
 		width: 2.5em;
 		height: 2.5em;
@@ -2603,10 +2607,6 @@ input, select, textarea {
 		text-align: center;
 		line-height: 2.5em;
 		margin: 0 0 1.3em 0;
-	}
-
-	.fa-solid.brands:before {
-		font-family: 'Font Awesome 5 Brands';
 	}
 
 	.fa-solid.major:before {
