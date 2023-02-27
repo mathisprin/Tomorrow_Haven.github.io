@@ -3139,7 +3139,7 @@ input, select, textarea {
 		margin: 0 0 1.3em 0;
 	}
 
-	.fa-solid.major:before {
+	.fa-solid:before {
 		font-size: 1.25em;
 	}
 
