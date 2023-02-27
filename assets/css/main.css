@@ -1942,7 +1942,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #312450 !important;
+			color: #374d36 !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2940,7 +2940,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #312450;
+			background: #374d36;
 		}
 
 		select:focus::-ms-value {
