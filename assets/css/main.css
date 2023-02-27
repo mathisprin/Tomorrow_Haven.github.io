@@ -16,7 +16,7 @@ form, label, legend, table, caption, tbody,
 tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video {
+section, summary, time, mark, audio, video, option {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -3025,7 +3025,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #bcceaf;
 			content: '\f00c';
 		}
 
@@ -3105,7 +3105,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #374d36;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -3116,19 +3116,19 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #374d36;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #374d36;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #75865c;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #75865c;
 				}
 
 				.wrapper.style3 .icon.major:before {
@@ -3136,7 +3136,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #9bb68c;
 				}
 
 
@@ -3179,7 +3179,7 @@ input, select, textarea {
 		display: block;
 		background: #ffffff;
 		border-radius: 100%;
-		color: #312450;
+		color: #374d36;
 		text-align: center;
 		margin: 0 0 1.3em 0;
 	}
@@ -3189,28 +3189,28 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 .fa-solid:before {
-			color: #5e42a6;
+			color: #374d36;
 		}
 
 		.wrapper.style1-alt .fa-solid:before {
-			color: #493382;
+			color: #374d36;
 		}
 
 		.wrapper.style2 .fa-solid:before {
-			color: #5052b5;
+			color: #75865c;
 		}
 
 		.wrapper.style2-alt .fa-solid:before {
-			color: #3e4094;
+			color: #75865c;
 		}
 
 		.wrapper.style3 .fa-solid:before {
-			color: #9bb68c;
+			color: #bcceaf;
 			position : center;
 		}
 
 		.wrapper.style3-alt .fa-solid:before {
-			color: #953d75;
+			color: #bcceaf;
 		}
 
 /* Image */
