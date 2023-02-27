@@ -3166,10 +3166,6 @@ input, select, textarea {
 	}
 
 	.fa-solid:before {
-		line-height: inherit;
-	}
-
-	.fa-solid:before {
 		font-weight: 900;
 	}
 
