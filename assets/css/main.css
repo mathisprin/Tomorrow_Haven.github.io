@@ -3095,7 +3095,7 @@ input, select, textarea {
 .fa-solid {
 	text-decoration: none;
 	border-bottom: none;
-	position: center;
+	position: relative;
 }
 
 	.fa-solid:before {
@@ -3161,6 +3161,7 @@ input, select, textarea {
 
 		.wrapper.style3 .fa-solid:before {
 			color: #b74e91;
+			position : center;
 		}
 
 		.wrapper.style3-alt .fa-solid:before {
