@@ -2577,7 +2577,6 @@ input, select, textarea {
 		text-rendering: auto;
 		line-height: 1;
 		text-transform: none !important;
-		font-family: 'Font Awesome 5 Free';
 		font-weight: 400;
 	}
 
@@ -2589,15 +2588,11 @@ input, select, textarea {
 		line-height: inherit;
 	}
 
-	.fa-solid.solid:before {
+	.fa-solid:before {
 		font-weight: 900;
 	}
 
-	.fa-solid.brands:before {
-		font-family: 'Font Awesome 5 Brands';
-	}
-
-	.fa-solid.major {
+	.fa-solid {
 		width: 2.5em;
 		height: 2.5em;
 		display: block;
@@ -2608,35 +2603,6 @@ input, select, textarea {
 		line-height: 2.5em;
 		margin: 0 0 1.3em 0;
 	}
-
-		.fa-solid.major:before {
-			font-size: 1.25em;
-		}
-
-			.wrapper.style1 .fa-solid.major:before {
-				color: #5e42a6;
-			}
-
-			.wrapper.style1-alt .fa-solid.major:before {
-				color: #493382;
-			}
-
-			.wrapper.style2 .fa-solid.major:before {
-				color: #5052b5;
-			}
-
-			.wrapper.style2-alt .fa-solid.major:before {
-				color: #3e4094;
-			}
-
-			.wrapper.style3 .fa-solid.major:before {
-				color: #b74e91;
-			}
-
-			.wrapper.style3-alt .fa-solid.major:before {
-				color: #953d75;
-			}
-
 
 /* Image */
 
