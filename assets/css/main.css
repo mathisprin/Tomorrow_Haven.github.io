@@ -3451,7 +3451,7 @@ input, select, textarea {
 				padding-right: 0;
 			}
 
-			ul.fa-solid li > a, ul.icons li > span {
+			ul.fa-solid li > a, ul.fa-solid li > span {
 				border: 0;
 			}
 
