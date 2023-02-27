@@ -2750,6 +2750,33 @@ input, select, textarea {
 
 		}
 
+		@media screen and (max-width: 736px) {
+
+			.features section {
+				padding: 2.5em 1.5em 0.1em 5.5em ;
+			}
+
+				.features section .fa-solid {
+					left: 1.5em;
+					top: 2em;
+				}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			.features section {
+				padding: 2em 1.5em 0.1em 1.5em ;
+			}
+
+				.features section .fa-solid {
+					left: 0;
+					position: relative;
+					top: 0;
+				}
+
+		}
+
 /* Form */
 
 	form {
